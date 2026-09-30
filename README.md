@@ -9,6 +9,8 @@
 | `superpowers/` | [obra/superpowers](https://github.com/obra/superpowers) | 293k | 社区最全的核心 skill 库：TDD、系统化调试、brainstorming、并行子代理、代码审查、计划执行等 20+ 实战验证 skill |
 | `anthropic-skills/` | [anthropics/skills](https://github.com/anthropics/skills) | 179k | Anthropic 官方 skill 库：PDF/DOCX/XLSX/PPTX 文档处理、艺术创作等 |
 | `prompt-master/` | [nidhinjs/prompt-master](https://github.com/nidhinjs/prompt-master) | 13.9k | 精准 prompt 编写，零 token 浪费 |
+| `addyosmani-skills/` | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 100k | Google Chrome 团队 Addy Osmani 出品：25 个生产级工程 skill——context-engineering、spec-driven-development、debugging、performance、security、code-review 等全流程覆盖 |
+| `humanizer-skill/` | [blader/humanizer](https://github.com/blader/humanizer) | 52.9k | 去除 AI 味文风：把 AI 生成痕迹从文本中清除，产出自然人类写作 |
 | `TOKEN-OPTIMIZATION.md` | 精选整理 | — | 省 token 技巧汇总：缓存管理、context 分叉、模型选择、输入过滤 |
 
 ## 使用方法
